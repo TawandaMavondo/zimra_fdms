@@ -1,0 +1,21 @@
+{
+  "name": "@zimra/fdms",
+  "version": "0.0.1",
+  "description": "A FISCAL DEVICE GATEWAY API package for operator compliance to fiscalisation requirements by zimra for the purposes of recording taxable sales transactions.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "zimra",
+    "fdms",
+    "tax"
+  ],
+  "author": "Tawanda Mavondo",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
+  }
+}
